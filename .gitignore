@@ -1,0 +1,8 @@
+node_modules
+coverage
+*.tgz
+*.log
+.idea
+tmp/
+coverage
+dev.html
