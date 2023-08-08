@@ -27,8 +27,8 @@
   },
   "author": "Matters",
   "engines": {
-    "node": "12.13.1",
-    "npm": "6.12.1"
+    "node": "18.17.0",
+    "npm": "9.6.7"
   },
   "homepage": "https://gitlab.matters.tech/filib/hot-formula-parser.git",
   "devDependencies": {
